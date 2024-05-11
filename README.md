@@ -1,46 +1,24 @@
-# [Subhadip Chatterjee]
+# Subhadip Chatterjee
 
 ## 👋 Introduction
 
-Hi there! I'm [Your Name], a [Your Profession] passionate about [Your Interests]. Welcome to my GitHub profile!
+Hi there! I'm Subhadip Chatterjee, an aspiring Data Analyst passionate about learning Data Analysis Technologies. Welcome to my GitHub profile!
 
 ## 💼 Skills
 
-- Python
-- JavaScript
-- HTML/CSS
-- [Add your skills here]
-
-## 🚀 Featured Projects
-
-### Project Name 1
-- Description: [Brief description of your project]
-- [Link to Project Repository](link)
-- [Link to Live Demo/Website](link) (if applicable)
-
-### Project Name 2
-- Description: [Brief description of your project]
-- [Link to Project Repository](link)
-- [Link to Live Demo/Website](link) (if applicable)
+- Excel
+- Power BI
+- SQL
+- Client Management
 
 ## 📫 Contact Me
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile](link)
-- Twitter: [Your Twitter Profile](link)
-- [Add any other contact information or social media profiles]
+- Email: subhadip.chatterjee2023@gmail.com
+- LinkedIn: Subhadip Chatterjee (https://www.linkedin.com/in/subhadipchatterjee1990/)
 
 ## 🌟 About Me
 
 [Write a brief paragraph about yourself, your background, and what drives you in your field.]
-
-## 🌐 Additional Links
-
-- [Personal Website](link)
-- [Blog](link)
-- [LinkedIn](link)
-- [GitHub](link)
-- [Add any other relevant links]
 
 ## 📊 GitHub Stats
 
