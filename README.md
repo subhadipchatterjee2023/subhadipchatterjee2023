@@ -9,6 +9,7 @@ Hi there! I'm Subhadip Chatterjee, an aspiring Data Analyst passionate about lea
 - Excel
 - Power BI
 - SQL
+- Python
 - Client Management
 
 ## 📫 Contact Me
